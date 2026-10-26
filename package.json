@@ -1,0 +1,1 @@
+{"dependencies":{"unzipper":"^0.10.14"},"description":"Personal VLESS node on Velixir free plan: Node supervisor downloads Xray on startup and proxies WebSocket to it. TLS is terminated by the Velixir edge, so Xray itself uses plain WS.","engines":{"node":">=18"},"main":"server.js","name":"velixir-xray","scripts":{"start":"node server.js"},"version":"1.0.0"}
